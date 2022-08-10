@@ -1,1 +1,2 @@
 # Shopping-mall-Customer-Segmentation
+This is an interesting project. A dataset containing different features concerning customer activities was analyzed, amidst analysis, patterns were detected and further worked on. Kmeans clustering algorithm played a good role in the project as it was used to find different clusters, segmenting customers into five different sections. It was indeed interesting.  
